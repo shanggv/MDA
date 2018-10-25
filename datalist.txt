@@ -1,0 +1,1016 @@
+Data sets in package ¡®aqp¡¯:
+
+amarillo                 Amarillo Soils
+ca630                    Soil Data from the Central Sierra Nevada Region
+                         of California
+munsell                  Munsell to sRGB Lookup Table for Common Soil
+                         Colors
+rruff.sample             Sample XRD Patterns
+soil_minerals            Munsell Colors of Common Soil Minerals
+sp1                      Soil Profile Data Example 1
+sp2                      Honcut Creek Soil Profile Data
+sp3                      Soil Profile Data Example 3
+sp4                      Soil Chemical Data from Serpentinitic Soils of
+                         California
+sp5                      Sample Soil Database #5
+sp6                      Soil Physical and Chemical Data from
+                         Manganiferous Soils
+
+Data sets in package ¡®boot¡¯:
+
+acme                     Monthly Excess Returns
+aids                     Delay in AIDS Reporting in England and Wales
+aircondit                Failures of Air-conditioning Equipment
+aircondit7               Failures of Air-conditioning Equipment
+amis                     Car Speeding and Warning Signs
+aml                      Remission Times for Acute Myelogenous Leukaemia
+beaver                   Beaver Body Temperature Data
+bigcity                  Population of U.S. Cities
+brambles                 Spatial Location of Bramble Canes
+breslow                  Smoking Deaths Among Doctors
+calcium                  Calcium Uptake Data
+cane                     Sugar-cane Disease Data
+capability               Simulated Manufacturing Process Data
+catsM                    Weight Data for Domestic Cats
+cav                      Position of Muscle Caveolae
+cd4                      CD4 Counts for HIV-Positive Patients
+cd4.nested               Nested Bootstrap of cd4 data
+channing                 Channing House Data
+city                     Population of U.S. Cities
+claridge                 Genetic Links to Left-handedness
+cloth                    Number of Flaws in Cloth
+co.transfer              Carbon Monoxide Transfer
+coal                     Dates of Coal Mining Disasters
+darwin                   Darwin's Plant Height Differences
+dogs                     Cardiac Data for Domestic Dogs
+downs.bc                 Incidence of Down's Syndrome in British Columbia
+ducks                    Behavioral and Plumage Characteristics of Hybrid
+                         Ducks
+fir                      Counts of Balsam-fir Seedlings
+frets                    Head Dimensions in Brothers
+grav                     Acceleration Due to Gravity
+gravity                  Acceleration Due to Gravity
+hirose                   Failure Time of PET Film
+islay                    Jura Quartzite Azimuths on Islay
+manaus                   Average Heights of the Rio Negro river at Manaus
+melanoma                 Survival from Malignant Melanoma
+motor                    Data from a Simulated Motorcycle Accident
+neuro                    Neurophysiological Point Process Data
+nitrofen                 Toxicity of Nitrofen in Aquatic Systems
+nodal                    Nodal Involvement in Prostate Cancer
+nuclear                  Nuclear Power Station Construction Data
+paulsen                  Neurotransmission in Guinea Pig Brains
+poisons                  Animal Survival Times
+polar                    Pole Positions of New Caledonian Laterites
+remission                Cancer Remission and Cell Activity
+salinity                 Water Salinity and River Discharge
+survival                 Survival of Rats after Radiation Doses
+tau                      Tau Particle Decay Modes
+tuna                     Tuna Sighting Data
+urine                    Urine Analysis Data
+wool                     Australian Relative Wool Prices
+
+Data sets in package ¡®carData¡¯:
+
+AMSsurvey                American Math Society Survey Data
+Adler                    Experimenter Expectations
+Angell                   Moral Integration of American Cities
+Anscombe                 U. S. State Public-School Expenditures
+Arrests                  Arrests for Marijuana Possession
+BEPS                     British Election Panel Study
+Baumann                  Methods of Teaching Reading Comprehension
+Bfox                     Canadian Women's Labour-Force Participation
+Blackmore                Exercise Histories of Eating-Disordered and
+                         Control Subjects
+Burt                     Fraudulent Data on IQs of Twins Raised Apart
+CanPop                   Canadian Population Data
+Chile                    Voting Intentions in the 1988 Chilean Plebiscite
+Chirot                   The 1907 Romanian Peasant Rebellion
+Cowles                   Cowles and Davis's Data on Volunteering
+Davis                    Self-Reports of Height and Weight
+DavisThin                Davis's Data on Drive for Thinness
+Depredations             Minnesota Wolf Depredation Data
+Duncan                   Duncan's Occupational Prestige Data
+Ericksen                 The 1980 U.S. Census Undercount
+Florida                  Florida County Voting
+Freedman                 Crowding and Crime in U. S. Metropolitan Areas
+Friendly                 Format Effects on Recall
+GSSvocab                 Data from the General Social Survey (GSS) from
+                         the National Opinion Research Center of the
+                         University of Chicago.
+Ginzberg                 Data on Depression
+Greene                   Refugee Appeals
+Guyer                    Anonymity and Cooperation
+Hartnagel                Canadian Crime-Rates Time Series
+Highway1                 Highway Accidents
+KosteckiDillon           Treatment of Migraine Headaches
+Leinhardt                Data on Infant-Mortality
+LoBD                     Cancer drug data use to provide an example of the
+                         use of the skew power distributions.
+Mandel                   Contrived Collinear Data
+Migration                Canadian Interprovincial Migration Data
+Moore                    Status, Authoritarianism, and Conformity
+MplsDemo                 Minneapolis Demographic Data 2015, by
+                         Neighborhood
+MplsStops                Minneapolis Police Department 2017 Stop Data
+Mroz                     U.S. Women's Labor-Force Participation
+OBrienKaiser             O'Brien and Kaiser's Repeated-Measures Data
+Ornstein                 Interlocking Directorates Among Major Canadian
+                         Firms
+Pottery                  Chemical Composition of Pottery
+Prestige                 Prestige of Canadian Occupations
+Quartet                  Four Regression Datasets
+Robey                    Fertility and Contraception
+SLID                     Survey of Labour and Income Dynamics
+Sahlins                  Agricultural Production in Mazulu Village
+Salaries                 Salaries for Professors
+Soils                    Soil Compositions of Physical and Chemical
+                         Characteristics
+States                   Education and Related Statistics for the U.S.
+                         States
+TitanicSurvival          Survival of Passengers on the Titanic
+Transact                 Transaction data
+UN                       National Statistics from the United Nations,
+                         Mostly From 2009-2011
+USPop                    Population of the United States
+Vocab                    Vocabulary and Education
+WVS                      World Values Surveys
+WeightLoss               Weight Loss Data
+Wells                    Well Switching in Bangladesh
+Womenlf                  Canadian Women's Labour-Force Participation
+Wong                     Post-Coma Recovery of IQ
+Wool                     Wool data
+
+Data sets in package ¡®climwin¡¯:
+
+Chaff                    Annual laying date of breeding common chaffinch
+                         (Fringilla coelebs).
+ChaffClim                Daily climate data from 1965 to 2012.
+Mass                     Chick body mass data since 1979.
+MassClimate              Daily climate data since 1979.
+MassOutput               Example output dataframe from function
+                         slidingwin.
+MassRand                 Example output dataframe from function randwin.
+Monthly_data             Monthly temperature data
+Offspring                Reproductive success of birds since 2009.
+OffspringClimate         Daily climate data since 2009.
+Size                     Average size of red winged fairy wren (Malurus
+                         elegans) chicks.
+SizeClimate              Daily climate data from 2006 to 2015.
+
+Data sets in package ¡®cluster¡¯:
+
+agriculture              European Union Agricultural Workforces
+animals                  Attributes of Animals
+chorSub                  Subset of C-horizon of Kola Data
+flower                   Flower Characteristics
+plantTraits              Plant Species Traits Data
+pluton                   Isotopic Composition Plutonium Batches
+ruspini                  Ruspini Data
+votes.repub              Votes for Republican Candidate in Presidential
+                         Elections
+xclara                   Bivariate Data Set with 3 Clusters
+
+Data sets in package ¡®colorspace¡¯:
+
+USSouthPolygon           Polygon for County Map of US South States:
+                         Alabama, Georgia, and South Carolina
+
+Data sets in package ¡®curl¡¯:
+
+curl_symbols             List curl version and options.
+
+Data sets in package ¡®datasets¡¯:
+
+AirPassengers            Monthly Airline Passenger Numbers 1949-1960
+BJsales                  Sales Data with Leading Indicator
+BJsales.lead (BJsales)   Sales Data with Leading Indicator
+BOD                      Biochemical Oxygen Demand
+CO2                      Carbon Dioxide Uptake in Grass Plants
+ChickWeight              Weight versus age of chicks on different diets
+DNase                    Elisa assay of DNase
+EuStockMarkets           Daily Closing Prices of Major European Stock
+                         Indices, 1991-1998
+Formaldehyde             Determination of Formaldehyde
+HairEyeColor             Hair and Eye Color of Statistics Students
+Harman23.cor             Harman Example 2.3
+Harman74.cor             Harman Example 7.4
+Indometh                 Pharmacokinetics of Indomethacin
+InsectSprays             Effectiveness of Insect Sprays
+JohnsonJohnson           Quarterly Earnings per Johnson & Johnson Share
+LakeHuron                Level of Lake Huron 1875-1972
+LifeCycleSavings         Intercountry Life-Cycle Savings Data
+Loblolly                 Growth of Loblolly pine trees
+Nile                     Flow of the River Nile
+Orange                   Growth of Orange Trees
+OrchardSprays            Potency of Orchard Sprays
+PlantGrowth              Results from an Experiment on Plant Growth
+Puromycin                Reaction Velocity of an Enzymatic Reaction
+Seatbelts                Road Casualties in Great Britain 1969-84
+Theoph                   Pharmacokinetics of Theophylline
+Titanic                  Survival of passengers on the Titanic
+ToothGrowth              The Effect of Vitamin C on Tooth Growth in Guinea
+                         Pigs
+UCBAdmissions            Student Admissions at UC Berkeley
+UKDriverDeaths           Road Casualties in Great Britain 1969-84
+UKgas                    UK Quarterly Gas Consumption
+USAccDeaths              Accidental Deaths in the US 1973-1978
+USArrests                Violent Crime Rates by US State
+USJudgeRatings           Lawyers' Ratings of State Judges in the US
+                         Superior Court
+USPersonalExpenditure    Personal Expenditure Data
+UScitiesD                Distances Between European Cities and Between US
+                         Cities
+VADeaths                 Death Rates in Virginia (1940)
+WWWusage                 Internet Usage per Minute
+WorldPhones              The World's Telephones
+ability.cov              Ability and Intelligence Tests
+airmiles                 Passenger Miles on Commercial US Airlines,
+                         1937-1960
+airquality               New York Air Quality Measurements
+anscombe                 Anscombe's Quartet of 'Identical' Simple Linear
+                         Regressions
+attenu                   The Joyner-Boore Attenuation Data
+attitude                 The Chatterjee-Price Attitude Data
+austres                  Quarterly Time Series of the Number of Australian
+                         Residents
+beaver1 (beavers)        Body Temperature Series of Two Beavers
+beaver2 (beavers)        Body Temperature Series of Two Beavers
+cars                     Speed and Stopping Distances of Cars
+chickwts                 Chicken Weights by Feed Type
+co2                      Mauna Loa Atmospheric CO2 Concentration
+crimtab                  Student's 3000 Criminals Data
+discoveries              Yearly Numbers of Important Discoveries
+esoph                    Smoking, Alcohol and (O)esophageal Cancer
+euro                     Conversion Rates of Euro Currencies
+euro.cross (euro)        Conversion Rates of Euro Currencies
+eurodist                 Distances Between European Cities and Between US
+                         Cities
+faithful                 Old Faithful Geyser Data
+fdeaths (UKLungDeaths)   Monthly Deaths from Lung Diseases in the UK
+freeny                   Freeny's Revenue Data
+freeny.x (freeny)        Freeny's Revenue Data
+freeny.y (freeny)        Freeny's Revenue Data
+infert                   Infertility after Spontaneous and Induced
+                         Abortion
+iris                     Edgar Anderson's Iris Data
+iris3                    Edgar Anderson's Iris Data
+islands                  Areas of the World's Major Landmasses
+ldeaths (UKLungDeaths)   Monthly Deaths from Lung Diseases in the UK
+lh                       Luteinizing Hormone in Blood Samples
+longley                  Longley's Economic Regression Data
+lynx                     Annual Canadian Lynx trappings 1821-1934
+mdeaths (UKLungDeaths)   Monthly Deaths from Lung Diseases in the UK
+morley                   Michelson Speed of Light Data
+mtcars                   Motor Trend Car Road Tests
+nhtemp                   Average Yearly Temperatures in New Haven
+nottem                   Average Monthly Temperatures at Nottingham,
+                         1920-1939
+npk                      Classical N, P, K Factorial Experiment
+occupationalStatus       Occupational Status of Fathers and their Sons
+precip                   Annual Precipitation in US Cities
+presidents               Quarterly Approval Ratings of US Presidents
+pressure                 Vapor Pressure of Mercury as a Function of
+                         Temperature
+quakes                   Locations of Earthquakes off Fiji
+randu                    Random Numbers from Congruential Generator RANDU
+rivers                   Lengths of Major North American Rivers
+rock                     Measurements on Petroleum Rock Samples
+sleep                    Student's Sleep Data
+stack.loss (stackloss)   Brownlee's Stack Loss Plant Data
+stack.x (stackloss)      Brownlee's Stack Loss Plant Data
+stackloss                Brownlee's Stack Loss Plant Data
+state.abb (state)        US State Facts and Figures
+state.area (state)       US State Facts and Figures
+state.center (state)     US State Facts and Figures
+state.division (state)   US State Facts and Figures
+state.name (state)       US State Facts and Figures
+state.region (state)     US State Facts and Figures
+state.x77 (state)        US State Facts and Figures
+sunspot.month            Monthly Sunspot Data, from 1749 to "Present"
+sunspot.year             Yearly Sunspot Data, 1700-1988
+sunspots                 Monthly Sunspot Numbers, 1749-1983
+swiss                    Swiss Fertility and Socioeconomic Indicators
+                         (1888) Data
+treering                 Yearly Treering Data, -6000-1979
+trees                    Girth, Height and Volume for Black Cherry Trees
+uspop                    Populations Recorded by the US Census
+volcano                  Topographic Information on Auckland's Maunga Whau
+                         Volcano
+warpbreaks               The Number of Breaks in Yarn during Weaving
+women                    Average Heights and Weights for American Women
+
+Data sets in package ¡®dismo¡¯:
+
+Anguilla_grids           Anguilla australis distribution data
+Anguilla_test            Anguilla australis distribution data
+Anguilla_train           Anguilla australis distribution data
+ECOcrops                 Ecocrop model
+acaule                   Solanum acaule data
+
+Data sets in package ¡®evd¡¯:
+
+failure                  Failure Times
+fox                      Maximum Annual Flood Discharges of the Fox River
+lisbon                   Annual Maximum Wind Speeds at Lisbon
+lossalae                 General Liability Claims
+ocmulgee                 Maximum Annual Flood Discharges of the Ocmulgee
+                         River
+oldage                   Oldest Ages for Swedish Males and Females
+oxford                   Annual Maximum Temperatures at Oxford
+portpirie                Annual Maximum Sea Levels at Port Pirie
+sask                     Maximum Annual Flood Discharges of the North
+                         Saskachevan River
+sealevel                 Annual Sea Level Maxima at Dover and Harwich
+sealevel2                Annual Sea Level Maxima at Dover and Harwich with
+                         Indicator
+uccle                    Rainfall Maxima at Uccle, Belgium
+venice                   Largest Sea Levels in Venice
+venice2                  Largest Sea Levels in Venice
+
+Data sets in package ¡®fields¡¯:
+
+CO.elev (COmonthlyMet)   Monthly surface meterology for Colorado 1895-1997
+CO.id (COmonthlyMet)     Monthly surface meterology for Colorado 1895-1997
+CO.loc (COmonthlyMet)    Monthly surface meterology for Colorado 1895-1997
+CO.names (COmonthlyMet)
+                         Monthly surface meterology for Colorado 1895-1997
+CO.ppt (COmonthlyMet)    Monthly surface meterology for Colorado 1895-1997
+CO.ppt.MAM (COmonthlyMet)
+                         Monthly surface meterology for Colorado 1895-1997
+CO.ppt.MAM.climate (COmonthlyMet)
+                         Monthly surface meterology for Colorado 1895-1997
+CO.tmax (COmonthlyMet)   Monthly surface meterology for Colorado 1895-1997
+CO.tmax.MAM (COmonthlyMet)
+                         Monthly surface meterology for Colorado 1895-1997
+CO.tmax.MAM.climate (COmonthlyMet)
+                         Monthly surface meterology for Colorado 1895-1997
+CO.tmean.MAM.climate (COmonthlyMet)
+                         Monthly surface meterology for Colorado 1895-1997
+CO.tmin (COmonthlyMet)   Monthly surface meterology for Colorado 1895-1997
+CO.tmin.MAM (COmonthlyMet)
+                         Monthly surface meterology for Colorado 1895-1997
+CO.tmin.MAM.climate (COmonthlyMet)
+                         Monthly surface meterology for Colorado 1895-1997
+CO.years (COmonthlyMet)
+                         Monthly surface meterology for Colorado 1895-1997
+CO2                      Simulated global CO2 observations
+CO2.true (CO2)           Simulated global CO2 observations
+PRISMelevation           Monthly total precipitation (mm) for August 1997
+                         in the Rocky Mountain Region and some gridded 4km
+                         elevation data sets (m).
+RCMexample               3-hour precipitation fields from a regional
+                         climate model
+RMelevation              Monthly total precipitation (mm) for August 1997
+                         in the Rocky Mountain Region and some gridded 4km
+                         elevation data sets (m).
+US.dat                   Outline of coterminous US and states.
+WorldBankCO2             Carbon emissions and demographic covariables by
+                         country for 1999.
+lennon                   Gray image of John Lennon.
+ozone2                   Daily 8-hour ozone averages for sites in the
+                         Midwest
+rat.diet                 Experiment studying an appetite supressant in
+                         rats.
+world.dat                Fields internal and secondary functions
+
+Data sets in package ¡®forcats¡¯:
+
+gss_cat                  A sample of categorical variables from the
+                         General Social survey
+
+Data sets in package ¡®GEOmap¡¯:
+
+EHB.LLZ                  Earthquake Location Data
+NSWath                   Cross sectional Swaths of Earthquakes over Japan
+coastmap                 Global Coast Map
+
+Data sets in package ¡®ggplot2¡¯:
+
+diamonds                 Prices of 50,000 round cut diamonds
+economics                US economic time series
+economics_long           US economic time series
+faithfuld                2d density estimate of Old Faithful data
+luv_colours              'colors()' in Luv space
+midwest                  Midwest demographics
+mpg                      Fuel economy data from 1999 and 2008 for 38
+                         popular models of car
+msleep                   An updated and expanded version of the mammals
+                         sleep dataset
+presidential             Terms of 11 presidents from Eisenhower to Obama
+seals                    Vector field of seal movements
+txhousing                Housing sales in TX
+
+Data sets in package ¡®GSIF¡¯:
+
+USDA.TT.im               Probability density for texture triangle
+afsp                     Africa Soil Profiles Database
+cookfarm                 The Cook Agronomy Farm data set
+edgeroi                  The Edgeroi Data Set
+geochm                   NGS database samples for Indiana State
+isis                     ISRIC Soil Information System
+landmask                 Global coarse resolution land / soil mask maps
+landmask20km             Global coarse resolution land / soil mask maps
+munsell                  A class for FAO SoilProfileCollection
+soil.classes             Soil classification tables
+soil.dom                 Standard color palettes for soil properties and
+                         classes
+soil.legends             Standard color palettes for soil properties and
+                         classes
+soil.vars                Standard color palettes for soil properties and
+                         classes
+
+Data sets in package ¡®gstat¡¯:
+
+Chlorid92 (tull)         S¨¹dliche Tullnerfeld data set
+DE_RB_2005               Spatio-temporal data set with rural background
+                         PM10 concentrations in Germany 2005
+TULLNREG (tull)          S¨¹dliche Tullnerfeld data set
+coalash                  Coal ash samples from a mine in Pennsylvania
+demstd (sic97)           Spatial Interpolation Comparison 1997 data set:
+                         Swiss Rainfall
+fulmar                   Fulmaris glacialis data
+jura.grid (jura)         Jura data set
+jura.pred (jura)         Jura data set
+jura.val (jura)          Jura data set
+juragrid.dat (jura)      Jura data set
+meuse.all                Meuse river data set - original, full data set
+meuse.alt                Meuse river altitude data set
+ncp.grid                 Grid for the NCP, the Dutch part of the North Sea
+oxford                   Oxford soil samples
+pcb                      PCB138 measurements in sediment at the NCP, the
+                         Dutch part of the North Sea
+prediction.dat (jura)    Jura data set
+sic.grid (sic2004)       Spatial Interpolation Comparison 2004 data set:
+                         Natural Ambient Radioactivity
+sic.pred (sic2004)       Spatial Interpolation Comparison 2004 data set:
+                         Natural Ambient Radioactivity
+sic.test (sic2004)       Spatial Interpolation Comparison 2004 data set:
+                         Natural Ambient Radioactivity
+sic.train (sic2004)      Spatial Interpolation Comparison 2004 data set:
+                         Natural Ambient Radioactivity
+sic.val (sic2004)        Spatial Interpolation Comparison 2004 data set:
+                         Natural Ambient Radioactivity
+sic_full (sic97)         Spatial Interpolation Comparison 1997 data set:
+                         Swiss Rainfall
+sic_obs (sic97)          Spatial Interpolation Comparison 1997 data set:
+                         Swiss Rainfall
+transect.dat (jura)      Jura data set
+tull36 (tull)            S¨¹dliche Tullnerfeld data set
+validation.dat (jura)    Jura data set
+vv                       Precomputed variogram for PM10 in data set air
+walker                   Walker Lake sample and exhaustive data sets
+walker.exh (walker)      Walker Lake sample and exhaustive data sets
+wind                     Ireland wind data, 1961-1978
+wind.loc (wind)          Ireland wind data, 1961-1978
+
+Data sets in package ¡®htmlTable¡¯:
+
+SCB                      Average age in Sweden
+
+Data sets in package ¡®intervals¡¯:
+
+sgd                      Yeast gene model sample data
+
+Data sets in package ¡®lattice¡¯:
+
+USMortality              Mortality Rates in US by Cause and Gender
+USRegionalMortality      Mortality Rates in US by Cause and Gender
+barley                   Yield data from a Minnesota barley trial
+environmental            Atmospheric environmental conditions in New York
+                         City
+ethanol                  Engine exhaust fumes from burning ethanol
+melanoma                 Melanoma skin cancer incidence
+singer                   Heights of New York Choral Society singers
+
+Data sets in package ¡®latticeExtra¡¯:
+
+EastAuClimate            Climate of the East Coast of Australia
+SeatacWeather            Daily Rainfall and Temperature at the
+                         Seattle-Tacoma Airport
+USAge.df                 US national population estimates
+USAge.table              US national population estimates
+USCancerRates            Rate of Death Due to Cancer in US Counties
+ancestry                 Modal ancestry by County according to US 2000
+                         Census
+biocAccess               Hourly access attempts to Bioconductor website
+gvhd10                   Flow cytometry data from five samples from a
+                         patient
+postdoc                  Reasons for Taking First Postdoctoral Appointment
+
+Data sets in package ¡®lme4¡¯:
+
+Arabidopsis              Arabidopsis clipping/fertilization data
+Dyestuff                 Yield of dyestuff by batch
+Dyestuff2                Yield of dyestuff by batch
+InstEval                 University Lecture/Instructor Evaluations by
+                         Students at ETH
+Pastes                   Paste strength by batch and cask
+Penicillin               Variation in penicillin testing
+VerbAgg                  Verbal Aggression item responses
+cake                     Breakage Angle of Chocolate Cakes
+cbpp                     Contagious bovine pleuropneumonia
+grouseticks              Data on red grouse ticks from Elston et al. 2001
+grouseticks_agg (grouseticks)
+                         Data on red grouse ticks from Elston et al. 2001
+sleepstudy               Reaction times in a sleep deprivation study
+
+Data sets in package ¡®lubridate¡¯:
+
+lakers                   Lakers 2008-2009 basketball data set
+
+Data sets in package ¡®maps¡¯:
+
+canada.cities            Database of Canadian cities
+county.fips              FIPS county codes for US County Map
+countyMapEnv             United States County Map
+franceMapEnv             France Map
+iso3166                  ISO 3166 country codes (2 or 3 letters) and
+                         sovereignty.
+italyMapEnv              Italy Map
+lakesMapEnv              World lakes database
+legacy_world2MapEnv      Legacy low resolution World Map. DEPRECATED!
+legacy_worldMapEnv       Legacy low resolution World Map. DEPRECATED!
+nzMapEnv                 New Zealand Basic Map
+ozone                    Sample datasets
+state.carto.center       United States State Population Cartogram Map
+state.cartoMapEnv        United States State Population Cartogram Map
+state.fips               FIPS state codes for US 48 State Map
+state.vbm.center         United States State Visibility Base Map
+state.vbmMapEnv          United States State Visibility Base Map
+stateMapEnv              United States State Boundaries Map
+unemp                    Sample datasets
+us.cities                Database of US cities
+usaMapEnv                United States Coast Map
+votes.repub              Sample datasets
+world.cities             Database of world cities
+world2MapEnv             Pacific Centric Low resolution World Map
+worldMapEnv              Low (mid) resolution World Map
+
+Data sets in package ¡®maptools¡¯:
+
+SplashDams               Data for Splash Dams in western Oregon
+h1pl (gpcholes)          Hisaji Ono's lake/hole problem
+h2pl (gpcholes)          Hisaji Ono's lake/hole problem
+state.vbm                US State Visibility Based Map
+wrld_simpl               Simplified world country polygons
+
+Data sets in package ¡®MASS¡¯:
+
+Aids2                    Australian AIDS Survival Data
+Animals                  Brain and Body Weights for 28 Species
+Boston                   Housing Values in Suburbs of Boston
+Cars93                   Data from 93 Cars on Sale in the USA in 1993
+Cushings                 Diagnostic Tests on Patients with Cushing's
+                         Syndrome
+DDT                      DDT in Kale
+GAGurine                 Level of GAG in Urine of Children
+Insurance                Numbers of Car Insurance claims
+Melanoma                 Survival from Malignant Melanoma
+OME                      Tests of Auditory Perception in Children with OME
+Pima.te                  Diabetes in Pima Indian Women
+Pima.tr                  Diabetes in Pima Indian Women
+Pima.tr2                 Diabetes in Pima Indian Women
+Rabbit                   Blood Pressure in Rabbits
+Rubber                   Accelerated Testing of Tyre Rubber
+SP500                    Returns of the Standard and Poors 500
+Sitka                    Growth Curves for Sitka Spruce Trees in 1988
+Sitka89                  Growth Curves for Sitka Spruce Trees in 1989
+Skye                     AFM Compositions of Aphyric Skye Lavas
+Traffic                  Effect of Swedish Speed Limits on Accidents
+UScereal                 Nutritional and Marketing Information on US
+                         Cereals
+UScrime                  The Effect of Punishment Regimes on Crime Rates
+VA                       Veteran's Administration Lung Cancer Trial
+abbey                    Determinations of Nickel Content
+accdeaths                Accidental Deaths in the US 1973-1978
+anorexia                 Anorexia Data on Weight Change
+bacteria                 Presence of Bacteria after Drug Treatments
+beav1                    Body Temperature Series of Beaver 1
+beav2                    Body Temperature Series of Beaver 2
+biopsy                   Biopsy Data on Breast Cancer Patients
+birthwt                  Risk Factors Associated with Low Infant Birth
+                         Weight
+cabbages                 Data from a cabbage field trial
+caith                    Colours of Eyes and Hair of People in Caithness
+cats                     Anatomical Data from Domestic Cats
+cement                   Heat Evolved by Setting Cements
+chem                     Copper in Wholemeal Flour
+coop                     Co-operative Trial in Analytical Chemistry
+cpus                     Performance of Computer CPUs
+crabs                    Morphological Measurements on Leptograpsus Crabs
+deaths                   Monthly Deaths from Lung Diseases in the UK
+drivers                  Deaths of Car Drivers in Great Britain 1969-84
+eagles                   Foraging Ecology of Bald Eagles
+epil                     Seizure Counts for Epileptics
+farms                    Ecological Factors in Farm Management
+fgl                      Measurements of Forensic Glass Fragments
+forbes                   Forbes' Data on Boiling Points in the Alps
+galaxies                 Velocities for 82 Galaxies
+gehan                    Remission Times of Leukaemia Patients
+genotype                 Rat Genotype Data
+geyser                   Old Faithful Geyser Data
+gilgais                  Line Transect of Soil in Gilgai Territory
+hills                    Record Times in Scottish Hill Races
+housing                  Frequency Table from a Copenhagen Housing
+                         Conditions Survey
+immer                    Yields from a Barley Field Trial
+leuk                     Survival Times and White Blood Counts for
+                         Leukaemia Patients
+mammals                  Brain and Body Weights for 62 Species of Land
+                         Mammals
+mcycle                   Data from a Simulated Motorcycle Accident
+menarche                 Age of Menarche in Warsaw
+michelson                Michelson's Speed of Light Data
+minn38                   Minnesota High School Graduates of 1938
+motors                   Accelerated Life Testing of Motorettes
+muscle                   Effect of Calcium Chloride on Muscle Contraction
+                         in Rat Hearts
+newcomb                  Newcomb's Measurements of the Passage Time of
+                         Light
+nlschools                Eighth-Grade Pupils in the Netherlands
+npk                      Classical N, P, K Factorial Experiment
+npr1                     US Naval Petroleum Reserve No. 1 data
+oats                     Data from an Oats Field Trial
+painters                 The Painter's Data of de Piles
+petrol                   N. L. Prater's Petrol Refinery Data
+phones                   Belgium Phone Calls 1950-1973
+quine                    Absenteeism from School in Rural New South Wales
+road                     Road Accident Deaths in US States
+rotifer                  Numbers of Rotifers by Fluid Density
+ships                    Ships Damage Data
+shoes                    Shoe wear data of Box, Hunter and Hunter
+shrimp                   Percentage of Shrimp in Shrimp Cocktail
+shuttle                  Space Shuttle Autolander Problem
+snails                   Snail Mortality Data
+steam                    The Saturated Steam Pressure Data
+stormer                  The Stormer Viscometer Data
+survey                   Student Survey Data
+synth.te                 Synthetic Classification Problem
+synth.tr                 Synthetic Classification Problem
+topo                     Spatial Topographic Data
+waders                   Counts of Waders at 15 Sites in South Africa
+whiteside                House Insulation: Whiteside's Data
+wtloss                   Weight Loss Data from an Obese Patient
+
+Data sets in package ¡®Matrix¡¯:
+
+CAex                     Albers' example Matrix with "Difficult" Eigen
+                         Factorization
+KNex                     Koenker-Ng Example Sparse Model Matrix and
+                         Response Vector
+USCounties               USCounties Contiguity Matrix
+
+Data sets in package ¡®MBA¡¯:
+
+LIDAR                    Canopy LIDAR data
+
+Data sets in package ¡®mgcv¡¯:
+
+columb                   Reduced version of Columbus OH crime data
+columb.polys             Reduced version of Columbus OH crime data
+
+Data sets in package ¡®MuMIn¡¯:
+
+Beetle                   Flour beetle mortality data
+Cement                   Cement hardening data
+GPA                      Grade Point Average data
+
+Data sets in package ¡®nlme¡¯:
+
+Alfalfa                  Split-Plot Experiment on Varieties of Alfalfa
+Assay                    Bioassay on Cell Culture Plate
+BodyWeight               Rat weight over time for different diets
+Cefamandole              Pharmacokinetics of Cefamandole
+Dialyzer                 High-Flux Hemodialyzer
+Earthquake               Earthquake Intensity
+Fatigue                  Cracks caused by metal fatigue
+Gasoline                 Refinery yield of gasoline
+Glucose                  Glucose levels over time
+Glucose2                 Glucose Levels Following Alcohol Ingestion
+Gun                      Methods for firing naval guns
+IGF                      Radioimmunoassay of IGF-I Protein
+Machines                 Productivity Scores for Machines and Workers
+MathAchSchool            School demographic data for MathAchieve
+MathAchieve              Mathematics achievement scores
+Meat                     Tenderness of meat
+Milk                     Protein content of cows' milk
+Muscle                   Contraction of heart muscle sections
+Nitrendipene             Assay of nitrendipene
+Oats                     Split-plot Experiment on Varieties of Oats
+Orthodont                Growth curve data on an orthdontic measurement
+Ovary                    Counts of Ovarian Follicles
+Oxboys                   Heights of Boys in Oxford
+Oxide                    Variability in Semiconductor Manufacturing
+PBG                      Effect of Phenylbiguanide on Blood Pressure
+Phenobarb                Phenobarbitol Kinetics
+Pixel                    X-ray pixel intensities over time
+Quinidine                Quinidine Kinetics
+Rail                     Evaluation of Stress in Railway Rails
+RatPupWeight             The weight of rat pups
+Relaxin                  Assay for Relaxin
+Remifentanil             Pharmacokinetics of remifentanil
+Soybean                  Growth of soybean plants
+Spruce                   Growth of Spruce Trees
+Tetracycline1            Pharmacokinetics of tetracycline
+Tetracycline2            Pharmacokinetics of tetracycline
+Wafer                    Modeling of Analog MOS Circuits
+Wheat                    Yields by growing conditions
+Wheat2                   Wheat Yield Trials
+bdf                      Language scores
+ergoStool                Ergometrics experiment with stool types
+
+Data sets in package ¡®pbkrtest¡¯:
+
+beets                    beets data
+budworm                  budworm data
+
+Data sets in package ¡®plotKML¡¯:
+
+HRprec08                 Daily precipitation for Croatia for year 2008
+HRtemp08                 Daily temperatures for Croatia for year 2008
+LST                      Time series of MODIS LST images
+R_pal                    Colour palettes for numeric variables
+SAGA_pal                 Colour palettes for numeric variables
+USAWgrids                Bigfoot reports (USA)
+bargrid                  Baranja hill case study
+barstr                   Baranja hill case study
+barxyz                   Baranja hill case study
+bigfoot                  Bigfoot reports (USA)
+eberg                    Ebergotzen - soil mapping case study
+eberg_contours           Ebergotzen - soil mapping case study
+eberg_grid               Ebergotzen - soil mapping case study
+eberg_grid25             Ebergotzen - soil mapping case study
+eberg_zones              Ebergotzen - soil mapping case study
+fmd                      2001 food-and-mouth epidemic, north Cumbria (UK)
+gpxbtour                 GPS log of a bike tour
+northcumbria             Polygon boundary of north Cumbria
+worldgrids_pal           Standard global color palettes for factor
+                         variables
+
+Data sets in package ¡®plotrix¡¯:
+
+death_reg                Death registrations from 1996 to 2010
+soils                    Soil texture data from 125 soils
+
+Data sets in package ¡®plyr¡¯:
+
+baseball                 Yearly batting records for all major league
+                         baseball players
+ozone                    Monthly ozone measurements over Central America.
+
+Data sets in package ¡®quantreg¡¯:
+
+Bosco                    Boscovich Data
+CobarOre                 Cobar Ore data
+Mammals                  Garland(1983) Data on Running Speed of Mammals
+Peirce                   C.S. Peirce's Auditory Response Data
+barro                    Barro Data
+engel                    Engel Data
+gasprice                 Time Series of US Gasoline Prices
+uis                      UIS Drug Treatment study data
+
+Data sets in package ¡®RCurl¡¯:
+
+mimeTypeExtensions       Mapping from extension to MIME type
+
+Data sets in package ¡®reshape¡¯:
+
+french_fries             Sensory data from a french fries experiment
+smiths                   Demo data describing the Smiths
+tips                     Tipping data
+
+Data sets in package ¡®reshape2¡¯:
+
+french_fries             Sensory data from a french fries experiment.
+smiths                   Demo data describing the Smiths.
+tips                     Tipping data
+
+Data sets in package ¡®rgdal¡¯:
+
+GridsDatums              Grids and Datums PE&RS listing
+nor2k                    Norwegian peaks over 2000m
+
+Data sets in package ¡®rpart¡¯:
+
+car.test.frame           Automobile Data from 'Consumer Reports' 1990
+car90                    Automobile Data from 'Consumer Reports' 1990
+cu.summary               Automobile Data from 'Consumer Reports' 1990
+kyphosis                 Data on Children who have had Corrective Spinal
+                         Surgery
+solder                   Soldering of Components on Printed-Circuit Boards
+stagec                   Stage C Prostate Cancer
+
+Data sets in package ¡®RSAGA¡¯:
+
+dem (landslides)         Landslide inventory, study area mask and DEM
+landslides               Landslide inventory, study area mask and DEM
+study_area (landslides)
+                         Landslide inventory, study area mask and DEM
+
+Data sets in package ¡®sp¡¯:
+
+Rlogo                    Rlogo jpeg image
+gt (Rlogo)               Rlogo jpeg image
+meuse                    Meuse river data set
+meuse.area               River Meuse outline
+meuse.grid               Prediction Grid for Meuse Data Set
+meuse.grid_ll            Prediction Grid for Meuse Data Set, geographical
+                         coordinates
+meuse.riv                River Meuse outline
+
+Data sets in package ¡®spacetime¡¯:
+
+DE (air)                 Air quality data, rural background PM10 in
+                         Germany, daily averages 1998-2009
+DE_NUTS1 (air)           Air quality data, rural background PM10 in
+                         Germany, daily averages 1998-2009
+air                      Air quality data, rural background PM10 in
+                         Germany, daily averages 1998-2009
+dates (air)              Air quality data, rural background PM10 in
+                         Germany, daily averages 1998-2009
+fires                    Northern Los Angeles County Fires
+stations (air)           Air quality data, rural background PM10 in
+                         Germany, daily averages 1998-2009
+
+Data sets in package ¡®spam¡¯:
+
+Oral                     Oral Cavity Cancer
+UScounties.ndorder       Adjacency structure of the counties in the
+                         contiguous United States
+UScounties.storder       Adjacency structure of the counties in the
+                         contiguous United States
+USprecip                 Monthly total precipitation (mm) for April 1948
+                         in the contiguous United States
+germany                  Meta-data about administrative districts of
+                         Germany
+germany.info (germany)   Meta-data about administrative districts of
+                         Germany
+germany.poly (germany)   Meta-data about administrative districts of
+                         Germany
+
+Data sets in package ¡®SparseM¡¯:
+
+X (triogramX)            A Design Matrix for a Triogram Problem
+lsq                      Least Squares Problems in Surveying
+
+Data sets in package ¡®spData¡¯:
+
+LO_nb (house)            Lucas county OH housing
+SplashDams               Data for Splash Dams in western Oregon
+afcon                    Spatial patterns of conflict in Africa 1966-78
+africa.rook.nb (afcon)   Spatial patterns of conflict in Africa 1966-78
+afxy (afcon)             Spatial patterns of conflict in Africa 1966-78
+aggregating_zones        Datasets to illustrate the concept of spatial
+                         congruence
+alaska                   Alaska multipolygon
+auckland                 Marshall's infant mortality in Auckland dataset
+auckland.nb (auckland)   Marshall's infant mortality in Auckland dataset
+auckpolys (auckland)     Marshall's infant mortality in Auckland dataset
+baltimore                House sales prices, Baltimore, MD 1978
+bbs (columbus)           Columbus OH spatial analysis data set
+boston.c (boston)        Corrected Boston Housing Data
+boston.soi (boston)      Corrected Boston Housing Data
+boston.utm (boston)      Corrected Boston Housing Data
+coffee_data              World coffee production data
+col.gal.nb (columbus)    Columbus OH spatial analysis data set
+columbus                 Columbus OH spatial analysis data set
+congruent                Datasets to illustrate the concept of spatial
+                         congruence
+coords (columbus)        Columbus OH spatial analysis data set
+cycle_hire               Cycle hire points in London
+cycle_hire_osm           Cycle hire points in London from OSM
+dll (elect80)            1980 Presidential election results
+e80_queen (elect80)      1980 Presidential election results
+eire.coords.utm (eire)   Eire data sets
+eire.df (eire)           Eire data sets
+eire.nb (eire)           Eire data sets
+eire.polys.utm (eire)    Eire data sets
+elect80                  1980 Presidential election results
+elect80_lw (elect80)     1980 Presidential election results
+elev                     Artificial elevation raster data set
+grain                    Artificial raster dataset representing grain
+                         sizes
+hawaii                   Hawaii multipolygon
+hopkins                  Hopkins burnt savanna herb remains
+house                    Lucas county OH housing
+huddersfield             Prevalence of respiratory symptoms
+incongruent              Datasets to illustrate the concept of spatial
+                         congruence
+jenks71                  Illinois 1959 county gross farm product value per
+                         acre
+k4 (elect80)             1980 Presidential election results
+listw_NY (nydata)        New York leukemia data
+lnd                      The boroughs of London
+nc.sids                  North Carolina SIDS data
+ncCC89.nb (nc.sids)      North Carolina SIDS data
+ncCR85.nb (nc.sids)      North Carolina SIDS data
+nydata                   New York leukemia data
+nz                       Regions in New Zealand
+nz_height                High points in New Zealand
+paper.nb (afcon)         Spatial patterns of conflict in Africa 1966-78
+polys (columbus)         Columbus OH spatial analysis data set
+seine                    Small river network in France
+sidscents (nc.sids)      North Carolina SIDS data
+sidspolys (nc.sids)      North Carolina SIDS data
+state.vbm                US State Visibility Based Map
+trMat (house)            Lucas county OH housing
+urban_agglomerations     Major urban areas worldwide
+us_states                US states polygons
+us_states_df             the American Community Survey (ACS) data
+usa48.nb (used.cars)     US 1960 used car prices
+used.cars                US 1960 used car prices
+wheat                    Mercer and Hall wheat yield data
+world                    World country polygons
+worldbank_df             World Bank data
+x (getisord)             Getis-Ord remote sensing example data
+xyz (getisord)           Getis-Ord remote sensing example data
+y (getisord)             Getis-Ord remote sensing example data
+
+Data sets in package ¡®splancs¡¯:
+
+amacrines.off (amacrines)
+                         Amacrines on/off data set
+amacrines.on (amacrines)
+                         Amacrines on/off data set
+bodmin                   Bodmin Moors granite tors
+burbdy (burkitt)         Burkitt's lymphoma in Uganda
+burkitt                  Burkitt's lymphoma in Uganda
+burpts (burkitt)         Burkitt's lymphoma in Uganda
+cardiff                  Locations of homes of juvenile offenders
+okblack                  Oklahoma black offenders
+okwhite                  Oklahoma white offenders
+old.incinerator (southlancs)
+                         Cancer cases in Chorley-Ribble
+southlancs               Cancer cases in Chorley-Ribble
+southlancs.bdy (southlancs)
+                         Cancer cases in Chorley-Ribble
+southlancs.cc (southlancs)
+                         Cancer cases in Chorley-Ribble
+southlancs.pts (southlancs)
+                         Cancer cases in Chorley-Ribble
+uganda                   Craters in Uganda
+
+Data sets in package ¡®stringr¡¯:
+
+fruit                    Sample character vectors for practicing string
+                         manipulations.
+sentences                Sample character vectors for practicing string
+                         manipulations.
+words                    Sample character vectors for practicing string
+                         manipulations.
+
+Data sets in package ¡®survival¡¯:
+
+aml (leukemia)           Acute Myelogenous Leukemia survival data
+bladder                  Bladder Cancer Recurrences
+bladder1 (bladder)       Bladder Cancer Recurrences
+bladder2 (bladder)       Bladder Cancer Recurrences
+cancer                   NCCTG Lung Cancer Data
+cgd                      Chronic Granulotomous Disease data
+cgd0 (cgd)               Chronic Granulotomous Disease data
+colon                    Chemotherapy for Stage B/C colon cancer
+flchain                  Assay of serum free light chain for 7874
+                         subjects.
+genfan                   Generator fans
+heart                    Stanford Heart Transplant data
+jasa (heart)             Stanford Heart Transplant data
+jasa1 (heart)            Stanford Heart Transplant data
+kidney                   Kidney catheter data
+leukemia                 Acute Myelogenous Leukemia survival data
+logan                    Data from the 1972-78 GSS data used by Logan
+lung                     NCCTG Lung Cancer Data
+mgus                     Monoclonal gammapothy data
+mgus1 (mgus)             Monoclonal gammapothy data
+mgus2                    Monoclonal gammapothy data
+myeloid                  Acute myeloid leukemia
+nwtco                    Data from the National Wilm's Tumor Study
+ovarian                  Ovarian Cancer Survival Data
+pbc                      Mayo Clinic Primary Biliary Cirrhosis Data
+pbcseq (pbc)             Mayo Clinic Primary Biliary Cirrhosis, sequential
+                         data
+rats                     Rat treatment data from Mantel et al
+rats2 (rats)             Rat data from Gail et al.
+retinopathy              Diabetic Retinopathy
+rhDNase                  rhDNASE data set
+solder                   Data from a soldering experiment
+stanford2                More Stanford Heart Transplant data
+survexp.mn (survexp)     Census Data Sets for the Expected Survival and
+                         Person Years Functions
+survexp.us (survexp)     Census Data Sets for the Expected Survival and
+                         Person Years Functions
+survexp.usr (survexp)    Census Data Sets for the Expected Survival and
+                         Person Years Functions
+tobin                    Tobin's Tobit data
+transplant               Liver transplant waiting list
+uspop2                   Projected US Population
+veteran                  Veterans' Administration Lung Cancer study
+
+Data sets in package ¡®viridisLite¡¯:
+
+viridis.map              Original 'viridis'and 'cividis' color map
+
+Data sets in package ¡®xts¡¯:
+
+sample_matrix            Sample Data Matrix For xts Example and Unit
+                         Testing
