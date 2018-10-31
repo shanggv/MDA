@@ -20,7 +20,7 @@ symnum(clK <- cor(longley, method = "kendall"))
 
 #autocorrelation
 ?lh
-acf(lh)
+lh
 t<-acf(lh)
 t
 ?acf
