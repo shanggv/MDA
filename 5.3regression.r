@@ -5,6 +5,7 @@ library(bigleaf)
 data(AT_Neu_Jul_2010)
 ?AT_Neu_Jul_2010
 at <- AT_Neu_Jul_2010
+plot(at[,5],type="l")
 #plot(at[,c("hour","Tair","pressure","VPD","ustar", "wind","Ca")])
 #plot(at[,c("LW_up","Rn","LE", "H", "G","Tair")])
 
@@ -63,6 +64,25 @@ step(lm(mpg~1,data=mtcars),scope=mpg~disp+hp+wt+drat+qsec,direction="forward")#Ö
 step(model3,direction="both")#Ë«ÖØ¼ìÑé
 model4 <- step(lm(mpg~1,data=mtcars),scope=mpg~disp+hp+wt+drat+qsec,direction="both")#Ë«ÖØ¼ìÑé
 summary(model4)
+
+
+#best subsets regression
+install.packages("leaps")
+library(leaps)
+  subset.full <- regsubsets (mpg ~ disp+hp+wt+drat+qsec , data=mtcars, nvmax = 5)
+full.summary <- summary ( subset.full )
+names ( full.summary )
+full.summary
+which.max ( full.summary $ cp )
+which.min ( full.summary $ bic )
+which.max ( full.summary $ adjr2 )
+which.max ( full.summary $ rss)
+which.max ( full.summary $ rsq )
+
+plot ( full.summary $ bic , xlab = "Number of Variables" , ylab = "BIC" , type =     "b" )
+points ( 2 , full.summary $ bic [ 2 ] , col = "red" , cex = 2 , pch = 20 )
+
+
 
 
 
