@@ -53,7 +53,7 @@ summary(m3)
 
 
 #detrend
-#install.packages("pracma")
+install.packages("pracma")
 library(pracma)
 #the following two are equal
 lhde <- detrend(as.vector(nhtemp))
@@ -100,18 +100,14 @@ p<-periodogram(tair)
 #need to detrend fisrt and then find the periods
 trend_air = ma(tair, order =48, centre = T)
 detrend_air = tair - trend_air
-p<-TSA::periodogram(detrend_air[25:(length(tair)-24)])
+p<-periodogram(detrend_air[49:(length(tair)-48)])
 dd = data.frame(freq=p$freq, spec=p$spec)
 #get the stongest two period
 order = dd[order(-dd$spec),]
 tops = head(order,3)
 tops
 1/tops[,1]#length of cycle
-#install.packages("GeneCycle")
-library(GeneCycle)
-p<-periodogram(detrend_air[49:(length(tair)-48)])
-p<-spectrum(detrend_air[49:(length(tair)-48)])
-p
+
 ###########################
 #6 steps to decompose time series
 #1
@@ -172,14 +168,14 @@ plot(random_stl_air)
 decompose_air2 = decompose(random_stl_air, "additive")
 plot(decompose_air2)
 
-
-#autoregression with tair with trend
+#autoregression
 #default: method=“yule-walker”
 a1<-ar(tair)
 a1
 #只有使用最小二乘法,即method = "ols"进行参数估计的时候，才会有截距。
 a2<-ar(tair,method = "ols")
 a2
+
 
 
 tsp<-predict(a1,n.ahead=500)
@@ -199,33 +195,7 @@ lines(tsp$pred-2*tsp$se,col='blue')
 
 
 
-#autoregression with tair after detrending by ma()
-#default: method=“yule-walker”
-tair2 <- ts((as.integer(tair)-as.integer(trend_stl_air)),
-                  start=c(182,1),frequency=48)
-a3<-ar(tair2,method = "ols")
-a3
 
-tsp<-predict(a3,n.ahead=500)
-plot(tair2)
-plot(tair2,xlim=c(182,200),ylim=c(-10,10))
-lines(tsp$pred,col='red')  
-lines(tsp$pred+2*tsp$se,col='blue')
-lines(tsp$pred-2*tsp$se,col='blue')
-
-
-#ARMA model
-#see https://www.datascience.com/blog/introduction-to-forecasting-with-arima-in-r-learn-data-science-tutorials
-library(forecast)
-?arima
-?auto.arima()
-fit <- auto.arima(WWWusage)
-plot(forecast(fit,h=20))
-
-
-
-
-######################################
 #######################################
 #the following code is optional
 #decompose seasonal components one by one,
@@ -298,22 +268,4 @@ plot(stl_lh4)
 lh5 <- stl_lh4$time.series[,3]
 plot(lh5)
 var(lh5)/var(lh)
-
-
-#ARMA model
-#see https://blog.csdn.net/xy546268850/article/details/76735833
-#see https://www.datascience.com/blog/introduction-to-forecasting-with-arima-in-r-learn-data-science-tutorials
-
-library(forecast)
-?arima
-?auto.arima()
-ndiffs(tair) #need order 1 difference
-taird <- diff(tair,1)
-ndiffs(taird) #need no difference
-acf(taird)  #tail off
-pacf(taird) # 3 order
-model1<-arima(tair,order=c(3,1,0))
-model1
-
-
 
