@@ -24,7 +24,7 @@ ts_air = ts(nhtemp, frequency = ...)
 decompose_air = decompose(...)
 plot(decompose_air)
 #method2
-stl_air = stl(.__C__.externalptr)
+stl_air = stl(...)
 plot(stl_air)
 
 
