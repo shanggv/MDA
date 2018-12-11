@@ -52,7 +52,7 @@ summary(lm4)
 lm5 <- lm(ozone_reading~Month+pressure_height+Humidity+Temperature_Sandburg+Temperature_ElMonte, data=Ozone)
 summary(lm5)
 
-# try get out varibles with out significant coefficient(<0.05), according to lm4, get pressure_height out first
+# try get out varibles with out significant coefficient, according to lm5, get pressure_height out 
 lm6 <- lm(ozone_reading~Month+Humidity+Temperature_ElMonte+Temperature_Sandburg, data=Ozone)
 summary(lm6)
 #finnally all coefficients are significant, is this the best one? not sure. May use more options and cross validation to get one
@@ -78,7 +78,7 @@ methods(plot)
 plot (Ozone[,c("ozone_reading","Month", "Humidity", "Temperature_ElMonte", "Temperature_Sandburg")])
 
 
-#get rid of NA rows to avoid error in 
+#get rid of NA rows to avoid error in STEP()
 Ozone1 <- na.omit(Ozone[c("ozone_reading","Month", "Humidity", "Temperature_ElMonte", "Temperature_Sandburg")])
 lms <- lm(ozone_reading ~ Month + Humidity + Temperature_ElMonte + 
             Temperature_Sandburg+I(Temperature_ElMonte^2)+I(Month^2),
@@ -114,7 +114,7 @@ summary(lm1)
 #simple treatment of NA value
 #to see which variable have NA value
 summary(Ozone)
-#repalce NA with mean value, a better way may be regression or interpolation
+#repalce NA with mean value, a better way may be regression or interpolation or correction
 Ozone[, "pressure_height"][is.na(Ozone[, "pressure_height"])] = mean(Ozone[, "pressure_height"],na.rm=T)
 Ozone[, "Humidity"][is.na(Ozone[, "Humidity"])] = mean(Ozone[, "Humidity"],na.rm=T)
 Ozone[, "Temperature_Sandburg"][is.na(Ozone[, "Temperature_Sandburg"])] = mean(Ozone[, "Temperature_Sandburg"],na.rm=T)
@@ -127,4 +127,10 @@ Ozone[, "Inversion_temperature"][is.na(Ozone[, "Inversion_temperature"])] = mean
 lm3 <- step(lm(ozone_reading~1,data=Ozone),scope=ozone_reading~pressure_height+Wind_speed+Humidity+Temperature_Sandburg+Temperature_ElMonte+Inversion_base_height+Pressure_gradient+Inversion_temperature+Visibility, direction="forward")
 #but the model may be mislleading and is much worse than backword or both mode
 summary(lm3)
+
+#to see which variable have NA value, the most NA value are in Temperature_ElMonte 
+summary(Ozone)
+#So we can correct the Temperature_ElMonte with Temperature_Sandburg with the methods in the chapter 4
+#......try yourself
+
 

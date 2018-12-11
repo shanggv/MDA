@@ -30,7 +30,7 @@ plot(t2)
 #https://www.tutorialspoint.com/r/r_multiple_regression.htm
 input <- at[,c("Rn","Tair","VPD","pressure","precip", "wind")]
 print(head(input))
-# Create the relationship model.VPD is ÕôÆøÑ¹²î
+# Create the relationship model.VPD is ÕôÆøÑ¹²î,±¥ºÍÕôÆûÑ¹¿÷È±
 model <- lm(Rn~Tair+VPD+pressure+precip+wind, data = input)
 # Show the model.
 print(model)
